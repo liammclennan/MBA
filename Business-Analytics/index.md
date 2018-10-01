@@ -1,23 +1,16 @@
----
-question: Extending Underscore.js - findOr
-answer: Liam McLennan
----
-
 Business Analytics
 ==================
 
 ### Components of Business Analytics
 
-
-
 * BI/IS
 * Statistics
 * Modelling and Optimization 
 
-<span style="display: none">
-  <q>What are the components of business analytics?</q>
-  <a>BI / IS, statistics, modelling and optimization</a>
-</span>
+<!---
+  <question>What are the components of business analytics?</question>
+  <answer>BI / IS, statistics, modelling and optimization</answer>
+--->
 
 ### Types of Analytics
 
