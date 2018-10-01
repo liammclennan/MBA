@@ -1,12 +1,14 @@
+---
+question: Extending Underscore.js - findOr
+answer: Liam McLennan
+---
+
 Business Analytics
 ==================
 
 ### Components of Business Analytics
 
----
-question: Extending Underscore.js - findOr
-answer: Liam McLennan
----
+
 
 * BI/IS
 * Statistics
