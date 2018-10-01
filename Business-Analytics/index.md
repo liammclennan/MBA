@@ -7,10 +7,10 @@ Business Analytics
 * Statistics
 * Modelling and Optimization 
 
-<script style="display: none">
+<span style="display: none">
   <q>What are the components of business analytics?</q>
   <a>BI / IS, statistics, modelling and optimization</a>
-</script>
+</span>
 
 ### Types of Analytics
 
