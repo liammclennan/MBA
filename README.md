@@ -1,4 +1,4 @@
-My notes for my MBA study. Notes are recorded as markdown. Study questions are embedded with the notes using the microformat:
+Notes for my MBA study. Notes are recorded as markdown. Study questions are embedded with the notes using the microformat:
 
 ```
 <!---
