@@ -24,6 +24,13 @@ Business Analytics
 
 ### Models
 
+<!---
+  <question>3rd?</question>
+  <answer>3rd answer</answer>
+  <question>4th?</question>
+  <answer>4th answer</answer>
+--->
+
 Abstraction that captures the most important features of a system and presents them in a form that is easy to interpret. 
 
 Models may be descriptive, predictive or prescriptive (depending upon the output). 
