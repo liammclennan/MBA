@@ -15,6 +15,7 @@ Business Analytics
 ### Types of Analytics
 
 * **Descriptive analytics** use data to understand the past and present and to support decisions. i.e. reporting. Revenue by month. 
+* **Discovery analytics** exploring data to find interesting insights.
 * **Predictive Analytics** use data to predict the future. E.g. will this complaint escalate to the ombudsman. Will this loan default? What will be the profit on this engagement?
 * **Prescriptive Analytics** use optimizations to maximize or minimize some value. E.g. Evaluating a load application. What is most profitable way to cut a cow? What pricing will maximize profit?
 
@@ -23,6 +24,8 @@ Business Analytics
   <answer>formatting data for understanding. Creating information from historical data.</answer>
   <question>What is predictive analytics?</question>
   <answer>using data to predict the future</answer>
+  <question>What is discovery analytics?</question>
+  <answer>exploring data to find interesting insights</answer>
   <question>What is prescriptive analytics?</question>
   <answer>Using data to maximize or minimize some value. Using data to facilitate decision making.</answer>
 --->
