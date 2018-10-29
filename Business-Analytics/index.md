@@ -56,6 +56,15 @@ A **Decision Model** is a model used to help make decisions. It may have three t
 1. Uncontrollable variables (the weather, stock prices)
 1. Decision variables. Controllable. (pricing, production quantities)
 
+<!---
+  <question>What is a decision model?</question>
+  <answer>A model used to help make decisions</answer>
+  <question>In a decision model, what is an uncontrollable variable?</question>
+  <answer>An input that we do not control. E.g. stock price</answer>
+  <question>In a decision model, what is an decision variable?</question>
+  <answer>An input that we do control and are trying to determine. E.g. production quantity, pricing</answer>
+--->
+
 #### Prescriptive decision model
 
 A prescriptive decision model helps decision makers to identify the best solution to a decision problem.
@@ -69,3 +78,14 @@ The **objective function** optimizes a variable of interest from a set of decisi
 **Stochastic model** model in which some inputs are uncertain (expressed as a frequency distribution). Weather models are stochastic.
 
 **Operations Research** the analysis and solution of complex decision problems. Comes from military optimization efforts in WWII. E.g. where should be put the armour on the planes? 
+
+<!---
+  <question>What is an objective function?</question>
+  <answer>The function (of data and decision variables) that it is desired to maximize or minimize. E.g. $$profit = quantity * 14.55$$</answer>
+  <question>What is a search algorithm?</question>
+  <answer>Algorithm that finds an approximate solution.</answer>
+  <question>What is a stochastic model?</question>
+  <answer>Model in which some inputs are uncertain (expressed as frequency distribution or probability). E.g. weather model. Climate change model</answer>
+  <question>What is operations research?</question>
+  <answer>The analysis and solution of complex decision problems.</answer>
+--->
