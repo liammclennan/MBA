@@ -28,6 +28,8 @@ Business Analytics
   <answer>exploring data to find interesting insights</answer>
   <question>What is prescriptive analytics?</question>
   <answer>Using data to maximize or minimize some value. Using data to facilitate decision making.</answer>
+<question>What is experimental analytics?</question>
+<answer>Where prescriptive analytics uses models and simulations, experimental analytics uses hypotheses and live experiments in the field. Experiments are conducted on a subset of targets and may test multiple alternatives.</answer>
 --->
 
 **Price elasticity** The extent to which price affects demand. 
