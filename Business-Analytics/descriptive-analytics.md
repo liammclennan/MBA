@@ -7,3 +7,5 @@ Descriptive Analytics
 <answer>blue-orange. Avoid Red.</answer>
 
 --->
+
+[Example Excel Charts](https://1drv.ms/x/s!AtT4pZflwIijhzpE5ERjCCHrrlIu)
