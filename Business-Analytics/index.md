@@ -13,7 +13,7 @@ Business Analytics
 --->
 
 | Question | Answer |
----------------------
+| ----------- | --------- |
 | What are the components of business analytics? | BI / IS, statistics, modelling and optimization |
 
 ### Types of Analytics
