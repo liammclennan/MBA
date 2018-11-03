@@ -3,10 +3,6 @@ Business Analytics
 
 ### Components of Business Analytics
 
-* BI/IS
-* Statistics
-* Modelling and Optimization 
-
 <!---
   <question>What are the components of business analytics?</question>
   <answer>BI / IS, statistics, modelling and optimization</answer>
@@ -22,6 +18,13 @@ Business Analytics
 * **Discovery analytics** exploring data to find interesting insights.
 * **Predictive Analytics** use data to predict the future. E.g. will this complaint escalate to the ombudsman. Will this loan default? What will be the profit on this engagement?
 * **Prescriptive Analytics** use optimizations to maximize or minimize some value. E.g. Evaluating a load application. What is most profitable way to cut a cow? What pricing will maximize profit?
+
+| Question | Answer |
+| ----------- | --------- |
+| What is descriptive analytics? | using data to understand the past and present and to support decisions. i.e. reporting. Revenue by month.  |
+| What is predictive analytics? | using data to predict the future. E.g. will this complaint escalate to the ombudsman. Will this loan default? What will be the profit on this engagement? |
+| What is prescriptive analytics? | use optimizations to maximize or minimize some value. E.g. Evaluating a load application. What is most profitable way to cut a cow? What pricing will maximize profit? |
+
 
 <!---
   <question>What is descriptive analytics?</question>
