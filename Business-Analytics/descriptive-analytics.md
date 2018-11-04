@@ -13,8 +13,6 @@ Descriptive Analytics
 Descriptive Statistics
 ------
 
-Describing and summarizing data using tabular, visual and quatitative techniques.
-
 <!---
 
 <question>What is descriptive statistics?</question>
