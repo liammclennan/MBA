@@ -28,4 +28,5 @@ Descriptive Statistics
 | -------- | ------ |
 | What is descriptive statistics? | Describing and summarizing data using tabular, visual and quatitative techniques. |
 | What is a relative frequency distribution? | The frequency of each category is expressed as a fraction of the whole. |
+| What is a cumulative relative frequency distribution? | An ordered relative frequency distribution. Each group expresses the fraction of the whole at or below the upper limit of the group. |
 | What is a histogram? | Like a bar chart but represents the distribution of numerical values. Each bar groups numbers into ranges. Bar charts are for categorical variables, histograms are for quantitative variables. |
