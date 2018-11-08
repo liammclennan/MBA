@@ -30,4 +30,6 @@ Descriptive Statistics
 | What is a relative frequency distribution? | The frequency of each category is expressed as a fraction of the whole. |
 | What is a cumulative relative frequency distribution? | An ordered relative frequency distribution. Each group expresses the fraction of the whole at or below the upper limit of the group. |
 | What is a histogram? | Like a bar chart but represents the distribution of numerical values. Each bar groups numbers into ranges. Bar charts are for categorical variables, histograms are for quantitative variables. |
-| What are percentiles? | The kth percentile is the sample at or above k% of other samples. `percentile = nk/100 + 0.5` |
+| What are percentiles? | The kth percentile is the sample at or above k% of other samples. `rank = nk/100 + 0.5` where `k`is the percentile. |
+| What are quartiles? | Split the values into four quarters. The 25th percentile is the first quartile (Q1). The 50th percentile is the second quartile and so on. One-fourth of observations fall below the first quartile. |
+| What is a cross-tabulation? | A cross-tabulation is a tabular method that displays the number of observations in a data set for different subcategories of two categorical variables. |
