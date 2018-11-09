@@ -20,7 +20,7 @@ Business Analytics
 | What is predictive analytics? | using data to predict the future. E.g. will this complaint escalate to the ombudsman. Will this loan default? What will be the profit on this engagement? |
 | What is prescriptive analytics? | use optimizations to maximize or minimize some value. E.g. Evaluating a load application. What is most profitable way to cut a cow? What pricing will maximize profit? |
 | What is discovery analytics? | exploring data to find interesting insights |
-
+| What is experimental analytics? | Where prescriptive analytics uses models and simulations, experimental analytics uses hypotheses and live experiments in the field. Experiments are conducted on a subset of targets and may test multiple alternatives. |
 
 <!---
   <question>What is descriptive analytics?</question>
@@ -49,7 +49,13 @@ Business Analytics
   <answer>Abstraction that captures the most important features of a system and presents them in a form that is easy to interpret. </answer>
 --->
 
-Abstraction that captures the most important features of a system and presents them in a form that is easy to interpret. 
+| Question | Answer |
+| ------ | ------ |
+| What is price elasticity? | The extent to which price affects demand. |
+| What is a model? | Abstraction that captures the most important features of a system and presents them in a form that is easy to interpret. |
+| What is a decision model? | A model used to help make decision |
+| In a decision model, what is an uncontrollable variable? | An input that we do not control. E.g. stock price |
+| In a decision model, what is an decision variable? | An input that we do control and are trying to determine. E.g. production quantity, pricing |
 
 Models may be descriptive, predictive or prescriptive (depending upon the output). 
 
@@ -94,3 +100,11 @@ The **objective function** optimizes a variable of interest from a set of decisi
   <question>What is operations research?</question>
   <answer>The analysis and solution of complex decision problems.</answer>
 --->
+
+| Question | Answer |
+| ------- | ------ |
+| What is an objective function? | The function (of data and decision variables) that it is desired to maximize or minimize. E.g. $$profit = quantity * 14.55$$ |
+| What is a search algorithm? | Algorithm that finds an approximate solution. |
+| What is a stochastic model? | Model in which some inputs are uncertain (expressed as frequency distribution or probability). E.g. weather model. Climate change model |
+| What is operations research? | The analysis and solution of complex decision problems. |
+
