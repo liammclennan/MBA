@@ -35,8 +35,6 @@ Business Analytics
 <answer>Where prescriptive analytics uses models and simulations, experimental analytics uses hypotheses and live experiments in the field. Experiments are conducted on a subset of targets and may test multiple alternatives.</answer>
 --->
 
-**Price elasticity** The extent to which price affects demand. 
-
 <!---
   <question>What is price elasticity?</question>
   <answer>The extent to which price affects demand.</answer>
@@ -52,12 +50,10 @@ Business Analytics
 | Question | Answer |
 | ------ | ------ |
 | What is price elasticity? | The extent to which price affects demand. |
-| What is a model? | Abstraction that captures the most important features of a system and presents them in a form that is easy to interpret. |
+| What is a model? | Abstraction that captures the most important features of a system and presents them in a form that is easy to interpret. Models may be descriptive, predictive or prescriptive (depending upon the output). |
 | What is a decision model? | A model used to help make decision |
 | In a decision model, what is an uncontrollable variable? | An input that we do not control. E.g. stock price |
 | In a decision model, what is an decision variable? | An input that we do control and are trying to determine. E.g. production quantity, pricing |
-
-Models may be descriptive, predictive or prescriptive (depending upon the output). 
 
 A model is often a function that links some set of input variables to an output variable. 
 
@@ -80,16 +76,6 @@ A **Decision Model** is a model used to help make decisions. It may have three t
 
 A prescriptive decision model helps decision makers to identify the best solution to a decision problem.
 
-The **objective function** optimizes a variable of interest from a set of decision variables. I.e. Finds the maximum profit (**optimal solution**) value from the inputs price and quality. 
-
-**Search algorithm** Algorithm that finds an approximate solution (model function) without guarantees of finding the best one. 
-
-**Deterministic model** model in which all inputs are known.
-
-**Stochastic model** model in which some inputs are uncertain (expressed as a frequency distribution). Weather models are stochastic.
-
-**Operations Research** the analysis and solution of complex decision problems. Comes from military optimization efforts in WWII. E.g. where should be put the armour on the planes? 
-
 <!---
   <question>What is an objective function?</question>
   <answer>The function (of data and decision variables) that it is desired to maximize or minimize. E.g. $$profit = quantity * 14.55$$</answer>
@@ -106,5 +92,6 @@ The **objective function** optimizes a variable of interest from a set of decisi
 | What is an objective function? | The function (of data and decision variables) that it is desired to maximize or minimize. E.g. $$profit = quantity * 14.55$$ |
 | What is a search algorithm? | Algorithm that finds an approximate solution. |
 | What is a stochastic model? | Model in which some inputs are uncertain (expressed as frequency distribution or probability). E.g. weather model. Climate change model |
+| What is a deterministic model? | A model in which all inputs are known. |
 | What is operations research? | The analysis and solution of complex decision problems. |
 
