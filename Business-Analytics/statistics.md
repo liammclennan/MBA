@@ -17,4 +17,5 @@ Statistics
 | What is an interval variable? | Quantitative variable where difference between values in meaningful and where ratios do not make sense. Arbitrary zero. E.g. temperature in celcius. Year. |
 | What is a ratio variable? | Quantitative variable where there is a meaningful zero and where ratios make sense. E.g. temperature in Kelvin. Height. |
 | What is the midrange of a variable? | The average of the highest and lowest values |
-
+| What is the interquartile range (IQR)? | The difference between the first and the third quartiles. Q3 - Q1. I.e. the middle 50% |
+| What is variance? | Average of the squared deviations from the mean |
