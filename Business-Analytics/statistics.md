@@ -19,3 +19,4 @@ Statistics
 | What is the midrange of a variable? | The average of the highest and lowest values |
 | What is the interquartile range (IQR)? | The difference between the first and the third quartiles. Q3 - Q1. I.e. the middle 50% |
 | What is variance? | Average of the squared deviations from the mean |
+| What is standard deviation? | Square root of the variance |
