@@ -25,3 +25,13 @@ Statistics
 | A positively (right) skewed distribution... | Tails off to the right |
 | A negatively (left) skewed distribution... | Tails off to the left |
 | The coefficient of skewness (CS) is... | Negative for negatively (left) skewed distribution. Positive for positively (right) skewed distribution. < 0.5 means low skewness. > 1 means high skewness. | 
+
+Sampling
+-------
+
+| question | answer |
+| ----- | ------ |
+| What is convenience sampling? | Taking the sample that is easiest to get. |
+| What is systematic sampling? | Start at a random point and take objects a certain number apart. |
+| What is cluster sampling | Random sampling within clusters. Used when the sampling frame is not available. |
+| What is stratified sampling | Random sampling within strata. Strata are chosen for representation. |
