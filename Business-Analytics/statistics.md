@@ -36,3 +36,5 @@ Sampling
 | What is systematic sampling? | Start at a random point and take objects a certain number apart. |
 | What is cluster sampling | Random sampling within clusters. Used when the sampling frame is not available. |
 | What is stratified sampling | Random sampling within strata. Strata are chosen for representation. |
+| What affects the width of a confidence interval? | The variation in the population and the size of the sample. |
+
