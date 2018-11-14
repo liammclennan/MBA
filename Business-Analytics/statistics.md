@@ -20,3 +20,8 @@ Statistics
 | What is the interquartile range (IQR)? | The difference between the first and the third quartiles. Q3 - Q1. I.e. the middle 50% |
 | What is variance? | Average of the squared deviations from the mean |
 | What is standard deviation? | Square root of the variance |
+| What is a standardised value (z-score)? | a relative measure of the distance an observation is from the mean, which is independent of the units of measurement, expressed in standard deviations. A z-score of 1.0 means the observation is one standard deviation greater than the mean. |
+| What is the coefficient of variation (CV)? | Standard deviation divided by the mean. Allows comparison of relative variance between different samples. E.g. stock prices. Sometimes expresses risk. |
+| A positively (right) skewed distribution... | Tails off to the right |
+| A negatively (left) skewed distribution... | Tails off to the left |
+| The coefficient of skewness (CS) is... | Negative for negatively (left) skewed distribution. Positive for positively (right) skewed distribution. < 0.5 means low skewness. > 1 means high skewness. | 
